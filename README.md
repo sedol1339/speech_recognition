@@ -23,4 +23,4 @@ The file `configs/base_config.py` contains all details such as:
 - Training hyperparameters
 - Path to save results
 
-See example run in `example training run` folder.
+See example run in `example` folder.
