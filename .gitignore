@@ -1,0 +1,41 @@
+/tmp/
+/results/
+
+# Environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Byte-compiled
+__pycache__/
+.cache/
+.idea/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+.eggs/
+
+# PyPI distribution artifacts.
+build/
+dist/
+
+# Tests
+.pytest_cache/
+
+# Other
+*.DS_Store
+
+# Linter
+.mypy_cache/
+.ruff_cache/

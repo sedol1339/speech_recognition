@@ -1,0 +1,13 @@
+torch
+datasets
+transformers
+matplotlib
+pandas
+nltk
+tqdm
+librosa
+soundfile
+ml_collections
+absl-py
+ipykernel
+ipywidgets

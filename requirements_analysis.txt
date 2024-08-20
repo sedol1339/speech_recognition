@@ -1,0 +1,8 @@
+pysnr
+pyyaml
+packaging
+requests
+sentencepiece
+protobuf
+timeout_decorator
+sage[errant] @ git+https://github.com/ai-forever/sage.git@release-v1.1.0
